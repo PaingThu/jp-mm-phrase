@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 
 layout: redirected
 sitemap: false
-permalink: /**/
+permalink: /*
 redirect_to:  /vite-project-build/
